@@ -1,0 +1,2 @@
+C:\Users\Silas\Desktop\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Silas\Desktop\GitHub\TestApp\TestApp\bin\Debug\TestApp.exe.config
